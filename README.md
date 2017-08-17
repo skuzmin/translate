@@ -10,3 +10,5 @@ HOW TO:
 
 To select language, change constants in index.js file. 
 List of languages: https://cloud.google.com/translate/docs/languages
+
+P.S. I know, app could be better and more friendly, but I wrote it for my own needs :) gl and hf

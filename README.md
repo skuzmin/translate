@@ -8,4 +8,5 @@ HOW TO:
 4) Run command: "npm start"
 
 
-To select language, change constants in index.js file
+To select language, change constants in index.js file. 
+List of languages: https://cloud.google.com/translate/docs/languages
